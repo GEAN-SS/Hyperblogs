@@ -1,0 +1,5 @@
+    esto    es      un 
+
+        texto       de 
+
+    ejemplo     de      platzi
